@@ -1,0 +1,1059 @@
+[18:28:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:29:23] [ServerMain/INFO]: Loaded 7 recipes
+[18:30:08] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:30:08] [Server thread/INFO]: Loading properties
+[18:30:11] [Server thread/INFO]: This server is running CraftBukkit version 4081-Spigot-b754dcc-e8f9149 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[18:30:13] [Server thread/INFO]: Debug logging is disabled
+[18:30:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:30:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:30:13] [Server thread/INFO]: Default game type: SURVIVAL
+[18:30:13] [Server thread/INFO]: Generating keypair
+[18:30:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:30:20] [Server thread/INFO]: Using default channel type
+[18:30:41] [Server thread/INFO]: [floodgate] Loading floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[18:30:53] [Server thread/INFO]: [floodgate] Floodgateの起動に 11,981ms かかりました。
+[18:30:53] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser-Spigot v2.2.3-SNAPSHOT
+[18:31:05] [Server thread/INFO]: [Geyser-Spigot] 拡張機能を読み込み中...
+[18:31:05] [Server thread/INFO]: [Geyser-Spigot] 0 拡張機能を読み込みました
+[18:31:06] [Server thread/INFO]: Preparing level "world"
+[18:31:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:31:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:31:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:31:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:31:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:31:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:31:06] [Server thread/INFO]: Simulation Distance: 10
+[18:31:06] [Server thread/INFO]: View Distance: 10
+[18:31:06] [Server thread/INFO]: Mob Spawn Range: 6
+[18:31:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:31:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:31:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:31:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:31:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:31:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:31:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:31:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:31:06] [Server thread/INFO]: Max TNT Explosions: 100
+[18:31:09] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:31:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:31:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:31:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:31:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:31:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:31:09] [Server thread/INFO]: Simulation Distance: 10
+[18:31:09] [Server thread/INFO]: View Distance: 10
+[18:31:09] [Server thread/INFO]: Mob Spawn Range: 6
+[18:31:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:31:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:31:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:31:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:31:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:31:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:31:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:31:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:31:09] [Server thread/INFO]: Max TNT Explosions: 100
+[18:31:18] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:31:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:31:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:31:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:31:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:31:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:31:18] [Server thread/INFO]: Simulation Distance: 10
+[18:31:18] [Server thread/INFO]: View Distance: 10
+[18:31:18] [Server thread/INFO]: Mob Spawn Range: 6
+[18:31:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:31:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[18:31:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18:31:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:31:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:31:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:31:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:31:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:31:18] [Server thread/INFO]: Max TNT Explosions: 100
+[18:31:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:31:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:31:31] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:33] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:33] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:35] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:35] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:37] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[18:31:37] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[18:31:37] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:31:38] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[18:31:38] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[18:31:39] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[18:31:39] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[18:31:40] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:31:40] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:31:41] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:31:41] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:31:42] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[18:31:42] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:31:43] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:31:43] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[18:31:44] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[18:31:44] [Worker-Main-7/INFO]: Preparing spawn area: 13%
+[18:31:45] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[18:31:45] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[18:31:46] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[18:31:47] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[18:31:47] [Worker-Main-4/INFO]: Preparing spawn area: 47%
+[18:31:47] [Worker-Main-4/INFO]: Preparing spawn area: 51%
+[18:31:48] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[18:31:48] [Worker-Main-5/INFO]: Preparing spawn area: 61%
+[18:31:49] [Worker-Main-7/INFO]: Preparing spawn area: 68%
+[18:31:49] [Worker-Main-2/INFO]: Preparing spawn area: 76%
+[18:31:50] [Worker-Main-3/INFO]: Preparing spawn area: 82%
+[18:31:50] [Worker-Main-8/INFO]: Preparing spawn area: 84%
+[18:31:51] [Worker-Main-8/INFO]: Preparing spawn area: 90%
+[18:31:51] [Worker-Main-7/INFO]: Preparing spawn area: 94%
+[18:31:52] [Server thread/INFO]: Time elapsed: 33233 ms
+[18:31:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:31:57] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:57] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:31:58] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:31:59] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:31:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:03] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:32:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:06] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:12] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:32:17] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:32:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:32:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:32:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:32:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:32:23] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:32:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:32:24] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[18:32:24] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[18:32:25] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[18:32:26] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[18:32:26] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[18:32:26] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[18:32:27] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[18:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[18:32:28] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[18:32:28] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[18:32:29] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[18:32:29] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[18:32:30] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[18:32:31] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:32:32] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:32:33] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:32:33] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:33] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:33] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:32:33] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:34] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:32:34] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:32:36] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:37] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:37] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:37] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:37] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[18:32:37] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:38] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:32:38] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:39] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:32:40] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[18:32:40] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:32:41] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:32:41] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:32:42] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:32:42] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:43] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:32:43] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[18:32:44] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[18:32:44] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[18:32:45] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[18:32:45] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[18:32:46] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[18:32:46] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[18:32:47] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[18:32:47] [Worker-Main-5/INFO]: Preparing spawn area: 8%
+[18:32:48] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[18:32:48] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[18:32:49] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[18:32:50] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[18:32:51] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[18:32:51] [Worker-Main-8/INFO]: Preparing spawn area: 17%
+[18:32:51] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[18:32:51] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[18:32:52] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[18:32:52] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[18:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[18:32:54] [Worker-Main-3/INFO]: Preparing spawn area: 21%
+[18:32:54] [Worker-Main-1/INFO]: Preparing spawn area: 21%
+[18:32:54] [Worker-Main-1/INFO]: Preparing spawn area: 21%
+[18:32:55] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[18:32:55] [Worker-Main-7/INFO]: Preparing spawn area: 24%
+[18:32:56] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[18:32:56] [Worker-Main-5/INFO]: Preparing spawn area: 27%
+[18:32:57] [Worker-Main-8/INFO]: Preparing spawn area: 29%
+[18:32:57] [Worker-Main-1/INFO]: Preparing spawn area: 29%
+[18:32:58] [Worker-Main-3/INFO]: Preparing spawn area: 29%
+[18:32:58] [Worker-Main-4/INFO]: Preparing spawn area: 29%
+[18:32:59] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[18:32:59] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[18:33:00] [Worker-Main-8/INFO]: Preparing spawn area: 33%
+[18:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[18:33:01] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[18:33:01] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[18:33:03] [Worker-Main-8/INFO]: Preparing spawn area: 43%
+[18:33:03] [Worker-Main-8/INFO]: Preparing spawn area: 43%
+[18:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[18:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 45%
+[18:33:04] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[18:33:04] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[18:33:05] [Worker-Main-4/INFO]: Preparing spawn area: 52%
+[18:33:05] [Worker-Main-5/INFO]: Preparing spawn area: 54%
+[18:33:06] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[18:33:06] [Worker-Main-1/INFO]: Preparing spawn area: 55%
+[18:33:07] [Worker-Main-7/INFO]: Preparing spawn area: 57%
+[18:33:07] [Worker-Main-3/INFO]: Preparing spawn area: 58%
+[18:33:08] [Worker-Main-8/INFO]: Preparing spawn area: 59%
+[18:33:08] [Worker-Main-7/INFO]: Preparing spawn area: 61%
+[18:33:09] [Worker-Main-5/INFO]: Preparing spawn area: 61%
+[18:33:09] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[18:33:10] [Worker-Main-7/INFO]: Preparing spawn area: 62%
+[18:33:10] [Worker-Main-5/INFO]: Preparing spawn area: 67%
+[18:33:11] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[18:33:11] [Worker-Main-5/INFO]: Preparing spawn area: 73%
+[18:33:12] [Worker-Main-5/INFO]: Preparing spawn area: 78%
+[18:33:13] [Worker-Main-3/INFO]: Preparing spawn area: 80%
+[18:33:13] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[18:33:13] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[18:33:14] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[18:33:14] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[18:33:15] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[18:33:15] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[18:33:15] [Server thread/INFO]: Time elapsed: 83167 ms
+[18:33:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:33:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:25] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:30] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:33:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:36] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:39] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:39] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:40] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:40] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:33:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:33:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:45] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[18:33:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:33:46] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:33:46] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[18:33:47] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[18:33:47] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[18:33:47] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[18:33:48] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:33:49] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[18:33:49] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[18:33:50] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[18:33:50] [Worker-Main-3/INFO]: Preparing spawn area: 3%
+[18:33:51] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:33:51] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:33:52] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[18:33:52] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[18:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[18:33:54] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[18:33:54] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:33:54] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[18:33:55] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[18:33:55] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[18:33:56] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[18:33:57] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[18:33:57] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[18:33:57] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[18:33:58] [Worker-Main-8/INFO]: Preparing spawn area: 7%
+[18:33:58] [Worker-Main-4/INFO]: Preparing spawn area: 8%
+[18:33:59] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[18:33:59] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[18:34:00] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[18:34:00] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[18:34:01] [Worker-Main-5/INFO]: Preparing spawn area: 12%
+[18:34:01] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[18:34:02] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[18:34:03] [Worker-Main-3/INFO]: Preparing spawn area: 15%
+[18:34:03] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[18:34:03] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[18:34:04] [Worker-Main-4/INFO]: Preparing spawn area: 21%
+[18:34:04] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[18:34:05] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[18:34:06] [Worker-Main-7/INFO]: Preparing spawn area: 35%
+[18:34:06] [Worker-Main-7/INFO]: Preparing spawn area: 35%
+[18:34:06] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[18:34:07] [Worker-Main-2/INFO]: Preparing spawn area: 35%
+[18:34:07] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[18:34:08] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[18:34:09] [Worker-Main-7/INFO]: Preparing spawn area: 36%
+[18:34:10] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[18:34:10] [Worker-Main-7/INFO]: Preparing spawn area: 36%
+[18:34:10] [Worker-Main-7/INFO]: Preparing spawn area: 36%
+[18:34:11] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[18:34:11] [Worker-Main-7/INFO]: Preparing spawn area: 36%
+[18:34:11] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[18:34:12] [Worker-Main-5/INFO]: Preparing spawn area: 36%
+[18:34:13] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[18:34:14] [Worker-Main-1/INFO]: Preparing spawn area: 37%
+[18:34:14] [Worker-Main-1/INFO]: Preparing spawn area: 37%
+[18:34:14] [Worker-Main-3/INFO]: Preparing spawn area: 38%
+[18:34:15] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[18:34:15] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[18:34:16] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[18:34:16] [Worker-Main-1/INFO]: Preparing spawn area: 41%
+[18:34:16] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[18:34:17] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[18:34:18] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[18:34:18] [Worker-Main-5/INFO]: Preparing spawn area: 41%
+[18:34:18] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[18:34:19] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[18:34:20] [Worker-Main-8/INFO]: Preparing spawn area: 43%
+[18:34:20] [Worker-Main-4/INFO]: Preparing spawn area: 45%
+[18:34:20] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[18:34:21] [Worker-Main-3/INFO]: Preparing spawn area: 45%
+[18:34:22] [Worker-Main-1/INFO]: Preparing spawn area: 46%
+[18:34:22] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[18:34:23] [Worker-Main-7/INFO]: Preparing spawn area: 48%
+[18:34:23] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[18:34:23] [Worker-Main-7/INFO]: Preparing spawn area: 53%
+[18:34:24] [Worker-Main-1/INFO]: Preparing spawn area: 58%
+[18:34:25] [Worker-Main-4/INFO]: Preparing spawn area: 65%
+[18:34:25] [Worker-Main-4/INFO]: Preparing spawn area: 70%
+[18:34:26] [Worker-Main-4/INFO]: Preparing spawn area: 72%
+[18:34:26] [Worker-Main-3/INFO]: Preparing spawn area: 75%
+[18:34:26] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[18:34:27] [Worker-Main-4/INFO]: Preparing spawn area: 82%
+[18:34:28] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[18:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 87%
+[18:34:28] [Worker-Main-7/INFO]: Preparing spawn area: 94%
+[18:34:29] [Worker-Main-7/INFO]: Preparing spawn area: 98%
+[18:34:29] [Server thread/INFO]: Time elapsed: 73633 ms
+[18:34:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[18:34:38] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
+[18:34:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:34:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:34:43] [Server thread/INFO]: [Geyser-Spigot] 
+[18:34:43] [Server thread/INFO]: [Geyser-Spigot] Geyser バージョン 2.2.3-SNAPSHOT (git-master-ca0e226) を読み込んでいます
+[18:34:43] [Server thread/INFO]: [Geyser-Spigot] 
+[18:34:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:36:36] [nioEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Geyser を 0.0.0.0 で開始しました: 25565
+[18:36:40] [Server thread/INFO]: [Geyser-Spigot] 完了 (117.117s)！ /geyser help を実行してください！
+[18:36:46] [Server thread/INFO]: Done (340.182s)! For help, type "help"
+[18:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40577ms or 811 ticks behind
+[18:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16201ms or 324 ticks behind
+[18:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
+[18:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[18:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13587ms or 271 ticks behind
+[18:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20321ms or 406 ticks behind
+[18:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[18:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[18:55:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19108ms or 382 ticks behind
+[18:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21208ms or 424 ticks behind
+[19:01:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[19:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17151ms or 343 ticks behind
+[19:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6959ms or 139 ticks behind
+[19:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[19:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[19:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[19:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9934ms or 198 ticks behind
+[19:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7461ms or 149 ticks behind
+[19:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[19:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24232ms or 484 ticks behind
+[19:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8606ms or 172 ticks behind
+[19:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[19:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8546ms or 170 ticks behind
+[19:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7363ms or 147 ticks behind
+[19:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
+[19:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20185ms or 403 ticks behind
+[19:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4879ms or 97 ticks behind
+[19:35:53] [Server thread/INFO]: Stopping server
+[19:35:53] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
+[19:35:53] [Server thread/INFO]: [Geyser-Spigot] Geyser をシャットダウンしています。
+[19:35:55] [WebSocketConnectReadThread-104/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[19:35:55] [Server thread/INFO]: [Geyser-Spigot] Geyser は正常にシャットダウンしました。
+[19:35:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[19:35:58] [Server thread/INFO]: Saving players
+[19:35:59] [Server thread/INFO]: Saving worlds
+[19:37:10] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:10] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[19:37:10] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[19:37:11] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[19:37:11] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[19:37:11] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[19:37:11] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[19:37:11] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[19:37:11] [Spigot Watchdog Thread/ERROR]: Spigot version: 4081-Spigot-b754dcc-e8f9149 (MC: 1.20.4)
+[19:37:11] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:11] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[19:37:17] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:17] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.HashMap.hash(HashMap.java:338)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.HashMap.put(HashMap.java:610)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.nbt.NBTTagCompound.a(SourceFile:233)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.ChunkRegionLoader.a(ChunkRegionLoader.java:394)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.a(PlayerChunkMap.java:957)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.lambda$21(PlayerChunkMap.java:587)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap$$Lambda$8525/0x0000000802034578.accept(Unknown Source)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.b(PlayerChunkMap.java:560)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.a(PlayerChunkMap.java:529)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkProviderServer.a(ChunkProviderServer.java:393)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.t(MinecraftServer.java:928)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:701)
+[19:37:17] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1087)
+[19:37:19] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:37:19] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6013/0x0000000801663ce8.run(Unknown Source)
+[19:37:19] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:19] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:20] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Attach Listener
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 13 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 16 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: WAITING
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer hack thread
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.sleep(Native Method)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.SystemUtils$9.run(SourceFile:833)
+[19:37:38] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:39] [Spigot Watchdog Thread/ERROR]: Current Thread: Java2D Disposer
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: WAITING
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/sun.java2d.Disposer.run(Disposer.java:145)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:39] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-Windows
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/sun.awt.windows.WToolkit.eventLoop(Native Method)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/sun.awt.windows.WToolkit.run(WToolkit.java:365)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:39] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-Shutdown
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: WAITING
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Object.java:338)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/sun.awt.AWTAutoShutdown.run(AWTAutoShutdown.java:291)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:39] [Spigot Watchdog Thread/ERROR]: Current Thread: AWT-EventQueue-0
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: WAITING
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.join(Thread.java:1304)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.join(Thread.java:1372)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.a(MinecraftServer.java:983)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.gui.ServerGUI$1.windowClosing(ServerGUI.java:66)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Window.processWindowEvent(Window.java:2085)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Window.processEvent(Window.java:2044)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Component.dispatchEventImpl(Component.java:5001)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Container.dispatchEventImpl(Container.java:2324)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Window.dispatchEventImpl(Window.java:2780)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.Component.dispatchEvent(Component.java:4833)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue$4.run(EventQueue.java:722)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue$4.run(EventQueue.java:716)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.AccessController.executePrivileged(AccessController.java:776)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.AccessController.doPrivileged(AccessController.java:399)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+[19:37:39] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue$5.run(EventQueue.java:746)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue$5.run(EventQueue.java:744)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.AccessController.executePrivileged(AccessController.java:776)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.AccessController.doPrivileged(AccessController.java:399)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventQueue.dispatchEvent(EventQueue.java:743)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: TimerQueue
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.DelayQueue.take(DelayQueue.java:229)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.desktop@17.0.7/javax.swing.TimerQueue.run(TimerQueue.java:172)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Thread-2
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: false | State: WAITING
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		com.mojang.logging.LogQueues.getNextLogEvent(LogQueues.java:41)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.gui.ServerGUI.lambda$3(ServerGUI.java:144)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.gui.ServerGUI$$Lambda$6117/0x0000000801740238.run(Unknown Source)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2LongOpenHashMap.shiftKeys(Long2LongOpenHashMap.java:326)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2LongOpenHashMap.removeEntry(Long2LongOpenHashMap.java:211)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2LongOpenHashMap.remove(Long2LongOpenHashMap.java:350)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.lambda$21(PlayerChunkMap.java:597)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap$$Lambda$8525/0x0000000802034578.accept(Unknown Source)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.b(PlayerChunkMap.java:560)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.PlayerChunkMap.a(PlayerChunkMap.java:529)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.ChunkProviderServer.a(ChunkProviderServer.java:393)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.t(MinecraftServer.java:928)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.t(DedicatedServer.java:701)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1087)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$6013/0x0000000801663ce8.run(Unknown Source)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: TerminalConsoleWriter
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/java.io.BufferedOutputStream.write(BufferedOutputStream.java:95)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:535)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:568)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:568)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.FileOutputStream.writeBytes(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.FileOutputStream.write(FileOutputStream.java:349)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.BufferedOutputStream.write(BufferedOutputStream.java:95)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:535)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		org.fusesource.jansi.AnsiOutputStream.write(AnsiOutputStream.java:82)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:568)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:568)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.PrintStream.write(PrintStream.java:616)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R3.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:61)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.management@17.0.7/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.management@17.0.7/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:521)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.management@17.0.7/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:509)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:90)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 48 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.wait(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.TimerThread.mainLoop(Timer.java:563)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.TimerThread.run(Timer.java:516)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: true | State: RUNNABLE
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPoll.wait(Native Method)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:111)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:40] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:40] [Spigot Watchdog Thread/ERROR]: Current Thread: Geyser Spigot connection thread-6-1
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	PID: 77 | Suspended: false | Native: false | State: WAITING
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:40] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.takeTask(SingleThreadEventExecutor.java:244)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:52)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: defaultEventLoopGroup-7-1
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 78 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.takeTask(SingleThreadEventExecutor.java:244)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:52)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 80 | Suspended: false | Native: true | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPoll.wait(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:111)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Geyser Spigot connection thread-6-2
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 81 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3463)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3434)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.takeTask(SingleThreadEventExecutor.java:244)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:52)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 86 | Suspended: false | Native: true | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPoll.wait(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:111)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 87 | Suspended: false | Native: true | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPoll.wait(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:111)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:129)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:146)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-9
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 154 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-10
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 155 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-12
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 156 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-11
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 157 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-13
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 158 | Suspended: false | Native: false | State: WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-14
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 159 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkUntil(LockSupport.java:410)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1726)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: Worker-Main-15
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 160 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Object.clone(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1336)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.lighting.LightEngineStorageBlock$a.a(SourceFile:36)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.lighting.LightEngineStorageBlock$a.b(SourceFile:29)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.lighting.LightEngineStorage.b(SourceFile:287)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.lighting.LightEngine.a(SourceFile:180)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.lighting.LevelLightEngine.a(SourceFile:53)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.LightEngineThreaded.f(SourceFile:187)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.LightEngineThreaded.h(SourceFile:166)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.level.LightEngineThreaded$$Lambda$6450/0x0000000801a6a8f8.run(Unknown Source)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-49
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 161 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.yield(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:389)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-50
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 162 | Suspended: false | Native: false | State: RUNNABLE
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.7/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:861)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		Locked on:net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:333)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.FileDispatcherImpl.pwrite0(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.FileDispatcherImpl.pwrite(FileDispatcherImpl.java:74)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:130)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.IOUtil.write(IOUtil.java:76)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.IOUtil.write(IOUtil.java:67)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:878)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:861)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile.d(RegionFile.java:380)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile.a(RegionFile.java:333)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFile$ChunkBuffer.close(RegionFile.java:439)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:249)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.io.FilterOutputStream.close(FilterOutputStream.java:188)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.RegionFileCache.a(RegionFileCache.java:156)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:260)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker.a(SourceFile:250)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.storage.IOWorker$$Lambda$6385/0x0000000801a52ad0.run(Unknown Source)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.PairedQueue$b.run(SourceFile:60)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:91)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:37:41] [Spigot Watchdog Thread/ERROR]: Current Thread: IO-Worker-51
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	PID: 163 | Suspended: false | Native: false | State: TIMED_WAITING
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:401)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:903)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1061)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: 		java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+[19:37:41] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[19:38:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:46:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:46:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
